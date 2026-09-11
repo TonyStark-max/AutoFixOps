@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic>=2.0
+langgraph
+google-generativeai
+pytest
+pytest-asyncio
+python-dotenv
