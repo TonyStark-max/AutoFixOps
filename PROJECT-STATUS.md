@@ -1,0 +1,19 @@
+# PROJECT STATUS
+
+Backend: NOT VERIFIED
+Agent: NOT VERIFIED
+Bedrock: NOT VERIFIED
+Database: NOT VERIFIED
+Target App: NOT VERIFIED
+Sandbox: NOT VERIFIED
+GitHub: NOT VERIFIED
+Telegram: NOT VERIFIED
+AWS: NOT VERIFIED
+Security Tests: NOT VERIFIED
+E2E Runtime Incident: NOT VERIFIED
+E2E Config Incident: NOT VERIFIED
+E2E SQL Incident: NOT VERIFIED
+Safe Failure Scenario: NOT VERIFIED
+
+Overall:
+NOT READY
